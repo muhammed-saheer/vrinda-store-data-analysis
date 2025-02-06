@@ -27,7 +27,7 @@ The project aims to:
 - 🏆 **What is the highest-selling category?**  
 
 ## 📊 Dashboard & Insights
-![Dashboard Screenshot](Dashboard scrnsht.png)
+![Dashboard Screenshot](https://github.com/muhammed-saheer/vrinda-store-data-analysis/blob/main/image/Dashboard%20scrnsht.png)
 
 ### 🔍 Key Insights:
 - 👩 **Women** contribute **~65% of total sales**.  
